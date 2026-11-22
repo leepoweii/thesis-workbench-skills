@@ -9,7 +9,7 @@
 1. Customize → Plugins → Add → Add marketplace → Add from a repository，輸入 `leepoweii/thesis-workbench-skills`。
 2. 在 Plugins 裡安裝 `thesis-workbench`。
 3. Customize → Connectors，確認「thesis-workbench」已連上；第一次用時會請你用 Google 登入論文工作台（用你登入網站的同一個 Gmail），按「允許」。
-   如果沒有自動出現：Customize → Connectors → + Add → Add custom connector，網址填 `https://thesis.pwlee.xyz/mcp`。
+   如果沒有自動出現：Customize → Connectors → + Add → Add custom connector，網址填 `https://thesis.pwlee.xyz/mcp`；驗證設定那頁兩個都維持預設（Sign in now、Use Claude's published identity），捲到最下面按 Add。出錯的話 OAuth client 改選 Register automatically。
 
 ## Codex
 
