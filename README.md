@@ -2,7 +2,7 @@
 
 讓 Codex、Claude（Cowork／桌面版／Claude Code）會用[論文工作台](https://thesis.pwlee.xyz)：整理文獻、設計問卷、處理指導教授的意見、寫論文章節。
 
-最簡單的方法：登入論文工作台 → 左邊「連接 Claude」→ 複製「帶我設定」那段話，貼給你的 Codex 或 Claude，它會一步一步帶你做完。
+最簡單的方法：登入論文工作台 → 左邊「連接 AI」→ 複製「帶我設定」那段話，貼給你的 Codex 或 Claude，它會一步一步帶你做完。
 
 ## Claude Cowork／桌面版
 
@@ -27,7 +27,7 @@
 
 ## claude.ai 網頁版
 
-Customize → Skills → + → Create skill → Upload a skill，上傳論文工作台「連接 Claude」頁下載的壓縮檔；連接器在 Customize → Connectors 加。
+Customize → Skills → + → Create skill → Upload a skill，上傳論文工作台「連接 AI」頁下載的壓縮檔；連接器在 Customize → Connectors 加。
 
 ---
 
