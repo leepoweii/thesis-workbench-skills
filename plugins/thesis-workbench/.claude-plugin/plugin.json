@@ -1,0 +1,8 @@
+{
+  "name": "thesis-workbench",
+  "version": "1.0.0",
+  "description": "用論文工作台（thesis-workbench 連接器）整理文獻、設計問卷、處理指導教授意見、寫論文章節時使用。改研究模型或問卷前先給使用者看。",
+  "author": {
+    "name": "thesis-workbench contributors"
+  }
+}

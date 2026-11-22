@@ -1,0 +1,16 @@
+{
+  "name": "thesis-workbench",
+  "owner": {
+    "name": "thesis-workbench"
+  },
+  "metadata": {
+    "description": "論文工作台的 skill 與連接器：整理文獻、設計問卷、處理指導教授意見"
+  },
+  "plugins": [
+    {
+      "name": "thesis-workbench",
+      "source": "./plugins/thesis-workbench",
+      "description": "用論文工作台（thesis-workbench 連接器）整理文獻、設計問卷、處理指導教授意見、寫論文章節時使用。改研究模型或問卷前先給使用者看。"
+    }
+  ]
+}

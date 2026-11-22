@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "thesis-workbench": {
+      "type": "http",
+      "url": "https://thesis.pwlee.xyz/mcp"
+    }
+  }
+}
